@@ -1,0 +1,2 @@
+export XDG_CONFIG_HOME="$HOME/.config"
+export SHELL_SESSIONS_DISABLE=1
