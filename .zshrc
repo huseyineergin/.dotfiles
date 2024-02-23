@@ -17,6 +17,7 @@ export ZSH=$HOME/.oh-my-zsh
 HIST_STAMPS="mm/dd/yyyy"
 
 # Aliases
+alias cat="bat"
 alias vim="nvim"
 alias ll="ls -l"
 alias la="ls -la"
