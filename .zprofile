@@ -5,3 +5,4 @@ export _ZO_EXCLUDE_DIRS="$HOME:$HOME/Projects/*/*/**"
 export XDG_CONFIG_HOME="$HOME/.config"
 export XDG_CACHE_HOME="$HOME/.cache"
 export SHELL_SESSIONS_DISABLE=1
+export LANG=en_US.UTF-8
