@@ -28,3 +28,6 @@ source $ZSH/oh-my-zsh.sh
 
 # Zoxide
 eval "$(zoxide init --cmd cd zsh)"
+
+# fzf shell integration
+eval "$(fzf --zsh)"
